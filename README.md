@@ -1,5 +1,5 @@
 # IBM_MainframeDevCourse
-Materials and Certifications from the IBM Mainframe Dev Course
+Materials & Certification from the IBM Mainframe Dev Course
 
 ## Courese Overview
 ## Introduction to Enterprise Computing
