@@ -2,7 +2,7 @@
 Materials & Certification from the IBM Mainframe Dev Course
 
 ## Courese Overview 
-### Introduction to Enterprise Computing 
+### <ul><li>Introduction to Enterprise Computing</ul></li>
 ### IBM COBOL Basics 
 ### IBM COBOL Core
 ### IBM COBOL Software Development Practices
