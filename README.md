@@ -1,8 +1,9 @@
 # IBM_MainframeDevCourse
 Materials & Certification from the IBM Mainframe Dev Course 
 
-"C:\Users\ssoeh\_repos\IBM_MainframeDevCourse\IBM_MainframeDevCourse_COBOL\COBOL.jpg.jpg"
 
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## Courese Overview 
 ### <ul><li>Introduction to Enterprise Computing</ul></li>
