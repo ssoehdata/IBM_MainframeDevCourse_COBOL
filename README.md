@@ -3,7 +3,7 @@ Materials & Certification from the IBM Mainframe Dev Course
 
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/ssoehdata/IBM_MainframeDevCourse_COBOL/blob/main/COBOL.jpg.jpg) 
 
 ## Courese Overview 
 ### <ul><li>Introduction to Enterprise Computing</ul></li>
