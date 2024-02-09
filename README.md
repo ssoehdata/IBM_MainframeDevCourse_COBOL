@@ -1,7 +1,8 @@
 # IBM_MainframeDevCourse
 Materials & Certification from the IBM Mainframe Dev Course
 
-https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white 
+![image](https://github.com/ssoehdata/IBM_MainframeDevCourse_COBOL/assets/150803481/17efd039-1dc8-43f1-843d-9f99e88f18db)
+
 
 ## Courese Overview 
 ### <ul><li>Introduction to Enterprise Computing</ul></li>
