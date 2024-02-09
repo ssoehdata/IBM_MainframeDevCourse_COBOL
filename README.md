@@ -1,7 +1,7 @@
 # IBM_MainframeDevCourse
 Materials & Certification from the IBM Mainframe Dev Course
 
- 	 	https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white
+https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white 
 
 ## Courese Overview 
 ### <ul><li>Introduction to Enterprise Computing</ul></li>
